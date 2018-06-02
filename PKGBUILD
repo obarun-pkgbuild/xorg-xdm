@@ -5,7 +5,7 @@
 
 pkgname=xorg-xdm
 pkgver=1.1.11
-pkgrel=7
+pkgrel=8
 pkgdesc="X Display Manager"
 arch=(x86_64)
 url="https://xorg.freedesktop.org/"
